@@ -12,6 +12,8 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.21.3",
+    "@babel/plugin-proposal-pipeline-operator": "^7.18.9",
     "typescript": "5.0.2"
   }
 }
